@@ -24,3 +24,16 @@ h1, .initial, .fa-music, .fa-question-circle, .fa-camera, .fa-youtube-square {
     border: black solid 2px;
     color: rgb(255, 255, 255);
 }
+.initial {
+    font-weight: bold;
+}
+
+.fa-instagram  {
+    color: rgb(131,58,180);
+}
+.bg-banner {
+    background-color: rgba(50, 200, 200, 0.300);
+}
+.bg-secondary {
+    background-color: rgba(50, 200, 200, 0.300);
+}
