@@ -1,4 +1,4 @@
-h1, .initial, .fa-music, .fa-question-circle, .fa-camera, .fa-youtube-square,  {
+h1, .initial, .fa-music, .fa-question-circle, .fa-camera, .fa-youtube-square  {
     color: rgb(200, 50, 50);
 }
 
@@ -36,4 +36,10 @@ h1, .initial, .fa-music, .fa-question-circle, .fa-camera, .fa-youtube-square,  {
 }
 .bg-secondary {
     background-color: rgba(50, 200, 200, 0.300);
+}
+.tarif {
+    border: rgb(50, 200, 200) solid 1px;
+    background: rgba(50, 200, 200, 0.200);
+    margin-top: 10px;
+    display: inline-block;
 }
