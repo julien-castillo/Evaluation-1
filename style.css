@@ -43,3 +43,17 @@ h1, .initial, .fa-music, .fa-question-circle, .fa-camera, .fa-youtube-square  {
     margin-top: 10px;
     display: inline-block;
 }
+
+@media screen and (min-width: 1199px) {
+    .box {
+      width: 50%;
+      padding: 10px;
+    }
+}
+
+  @media screen and (max-width: 1199px) {
+  .box {
+    width: 100%;
+  }
+
+}
